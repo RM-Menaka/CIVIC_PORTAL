@@ -1,9 +1,9 @@
-NSS Civic Portal Management System
+# NSS Civic Portal Management System
 
 The NSS Civic Portal Management System is a role-based web application designed to digitize and streamline the management of National Service Scheme (NSS) units within CEG ,ANNA UNIVERSITY .
 Built using PHP and MySQL, the system centralizes activity scheduling, attendance tracking, student management, and unit transparency into a secure and structured digital platform.
 
- Key Features
+ # Key Features
 
  ->Role-Based Authentication (Admin, Office Bearer, Student)
  
@@ -17,7 +17,7 @@ Built using PHP and MySQL, the system centralizes activity scheduling, attendanc
  
  ->Transparent Student Dashboard (Roster, Activities, Office Bearers)
 
-Database Design
+# Database Design
 
 Core tables:
 
@@ -30,7 +30,7 @@ attendance.
 
 The system uses relational mapping and foreign keys to maintain structured and secure data flow.
 
-Tech Stack
+# Tech Stack
 
 ->PHP
 
@@ -42,7 +42,7 @@ Tech Stack
 
 ->Transaction-Based Attendance Updates
 
-Future Improvements
+# Future Improvements
 
 ->Email/SMS notifications
 
